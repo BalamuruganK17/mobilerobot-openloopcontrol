@@ -179,6 +179,7 @@ if name == 'main':
     ep_robot.close()
 
 ```
+Designed By: BALAMURUGAN.K Reg No: 25017932
 
 ## MobileRobot Movement Image:
 
